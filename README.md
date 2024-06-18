@@ -1,5 +1,7 @@
 # Overview
 
+![1684637327634](https://github.com/PrinceMario/E-commerce-project/assets/172631198/6e516701-6526-431b-a41f-7d5d655a2d1c)
+
 A SQL project I’m working on with a case study that analyzes sales data belonging to an E-Commerce company. This project is part of a project training session provided by DQLab to enhance relational database capabilities. I am working on this project using MySQL as Relational Database and Data Processing tool. For better visualization, I use Tableau software combined with SQL to get better analysis results.
 
 # Goals
