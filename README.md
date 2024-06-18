@@ -1,4 +1,5 @@
 #Overview
+
 A SQL project I’m working on with a case study that analyzes sales data belonging to an E-Commerce company. This project is part of a project training session provided by DQLab to enhance relational database capabilities. I am working on this project using MySQL as Relational Database and Data Processing tool. For better visualization, I use Tableau software combined with SQL to get better analysis results.
 #Goals
 Provide the business insights of the E-Commerce performance from 2019–2020.
