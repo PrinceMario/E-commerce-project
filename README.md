@@ -170,8 +170,7 @@ The following is a SQL query to find sellers who have also transacted as buyers 
 
 # Summary
 
-![image](https://github.com/user-attachments/assets/91693d8f-83ed-477c-9966-94a2969fa289)
-
+![image](https://github.com/user-attachments/assets/98d6afd9-cfad-48fd-89fa-fe87f91e395d)
 
 - There are approximately 1145 unique products divided into 12 categories. The highest number of unique products available by category are products that are in the ‘personal hygiene’ category with a number of unique products of approximately 434 products.
 - There are 6.34% of paid transactions that are not sent to buyers. E-Commerce needs to consider evaluating the transaction system in an effort to increase the security of buyers and sellers
